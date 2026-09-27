@@ -1,4 +1,3 @@
-# Cybersecurity-Risk-Threat-Analytics-Dashboard
 # Cybersecurity Risk & Threat Analytics Dashboard
 
 ## Project Overview
@@ -8,6 +7,8 @@ This project analyzes cybersecurity threat data using Microsoft Excel and Power 
 The objective is to demonstrate a data-driven approach to cybersecurity and technology risk analysis by transforming raw incident data into an interactive management dashboard.
 
 ---
+
+<img src="CyberSecurity Risk & Threat Analytics Dashboard.png">
 
 ## Project Objective
 
